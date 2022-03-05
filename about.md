@@ -1,16 +1,23 @@
 ---
 layout: post
-title: About
+title: 웹사이트 소개
 permalink: /about/
 img: bheema-2.PNG
 ---
+이 웹사이트는 두 가지 의도를 가지고 만들어졌습니다.
 
-In the Hindu epic Mahabharata, Bheema, is the second of the Pandavas. The Mahabharata relates many events which portray the immense might of Bheema. Bhima is responsible for slaying all hundred Kaurava brothers in the Kurukshetra War.
+<b>첫째</b>
 
-At the time Bhima kills the rakshasa(evil) Hidimba, he meets his sister Hidimbi; they eventually get married and have a son, [Ghatotkacha](http://webjeda.com/gatok/about/). 
+제철고에 오기 전 학교가 어떤지, 그리고 기숙사는 어떤지 인터넷으로 굉장히 많은 시간을 들여 찾아보았던 기억이 있습니다. 이 웹사이트는 신입생들을 위해 실용적이고 현실적인 사실들을 전달하고자 만들어졌습니다.
 
+<b>둘째</b>
 
-<iframe class="video" src="https://www.youtube.com/embed/6qqIy97WbGA" frameborder="0" allowfullscreen></iframe>
+광양제철고는 아직 고쳐야 할 부분들이 많습니다. 그리고 이를 지적하는 사람들이 있어야 문제점이 고쳐집니다. 이 웹사이트는 이러한 문제점들을 정리해 보다 많은 사람들이 쉽게 접할 수 있도록 문제점을 공론화시켜 빠르게 고칠 수 있도록 하기 위해 만들어졌습니다.
 
+<u>제작자의 다른 웹사이트</u>
+[제고시크릿](http://zego.today)
 
-Find more themes: [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
+유튜브에서 퍼온 제고 소개 영상입니다.
+추후 직접 제작 예정.
+
+<iframe class="video" src="https://www.youtube.com/watch?v=R6XPIaaCiaI" frameborder="0" allowfullscreen></iframe>
