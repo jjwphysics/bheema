@@ -2,7 +2,7 @@
 layout: post
 title: 웹사이트 소개
 permalink: /about/
-img: bheema-2.PNG
+img: d47.jpg
 ---
 이 웹사이트는 두 가지 의도를 가지고 만들어졌습니다.
 
