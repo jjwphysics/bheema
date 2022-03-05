@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contact
+title: 연락
 permalink: /contact/
 ---
 <style>
@@ -48,23 +48,23 @@ ul.contact-ul {
 
 </style>
 
-You can send me your feedback or suggestion here. If there is something missing in the theme then you can ask me to add. 
+문의사항이나 건의사항이 있으면 얼마든지 연락하십시오.
 
-Also, if you are willing to add it yourself then feel free to open a pull request after making changes.
+어떠한 내용도 괜찮습니다. 편하게 연락해 주세요.
 
 <form id="contact-form" class="form" action="https://formspree.io/{{site.email}}" method="POST" enctype="multipart/form-data">
         <ul class="contact-ul">
             <li class="contact-li">
-                <label class="contact-label" for="name">Name:</label>
-                <input type="text" placeholder="Your name" id="name" class="contact-input" name="name" tabindex="1"/>
+                <label class="contact-label" for="name">이름:</label>
+                <input type="text" placeholder="이름을 적어주세요" id="name" class="contact-input" name="name" tabindex="1"/>
             </li>
             <li class="contact-li">
-                <label class="contact-label" for="email">Email:</label>
-                <input type="email" placeholder="Your email" id="email" class="contact-input" name="email" tabindex="2"/>
+                <label class="contact-label" for="email">이메일:</label>
+                <input type="email" placeholder="이메일을 적어주세요" id="email" class="contact-input" name="email" tabindex="2"/>
             </li>
             <li class="contact-li">
-                <label class="contact-label" for="message">Message:</label>
-                <textarea class="contact-textarea" placeholder="Your message" class="contact-input" rows="4" id="message" name="message" tabindex="3"></textarea>
+                <label class="contact-label" for="message">내용:</label>
+                <textarea class="contact-textarea" placeholder="건의 또는 문의할 내용을 적어주세요" class="contact-input" rows="4" id="message" name="message" tabindex="3"></textarea>
             </li>
             <input class="button" type="submit" value="Send" id="submit"/>
         </ul>
@@ -73,7 +73,4 @@ Also, if you are willing to add it yourself then feel free to open a pull reques
         
 </form>
 
-Just update the ``email:`` in config.yml to make this form work.
-
-
-[Add a contact form](https://blog.webjeda.com/jekyll-contact-form/)
+감사합니다.
