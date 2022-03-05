@@ -5,7 +5,7 @@ permalink: /archive/
 ---
 
 <section id="archive">
-<h2>Articles from this year</h2>
+<h2>모든 글</h2>
 {% for post in site.posts %}
   {% unless post.next %}
 
@@ -20,7 +20,7 @@ permalink: /archive/
   <ul class="past">
   {% endif %}
   {% endunless %}
- <li class="arch-list"><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>&nbsp;<time>{{ post.date | date:"%d %b" }}</time></li>
+ <li class="arch-list"><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>&nbsp;</li>
 {% endfor %}
   </ul>
 </section>
