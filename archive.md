@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Archive
+title: 모든 글
 permalink: /archive/
 ---
 
 <section id="archive">
-<h2>모든 글</h2>
+<h2>모든 글 모음</h2>
 {% for post in site.posts %}
   {% unless post.next %}
 
