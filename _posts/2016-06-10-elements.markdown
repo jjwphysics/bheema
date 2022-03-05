@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Elements"
+title:  "학교 주변"
 categories: jekyll update
 img: lost-6.jpg
 ---
-Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on [Skeleton](http://getskeleton.com/), you can use any skeleton class in this theme.
+학교  용이한 시설들에 대해 설명합니다.
 
-## Buttons
+아래는 그냥 
 
 <!-- Standard buttons -->
 <a class="button" href="#">Anchor button</a>
